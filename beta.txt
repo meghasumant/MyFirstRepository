@@ -1,0 +1,1 @@
+This is another sample file created using touch command.
